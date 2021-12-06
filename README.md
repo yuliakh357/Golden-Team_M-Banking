@@ -1,7 +1,7 @@
 # Golden-Team_M-Banking
 Judul              : Projek Lab PBO berbasis Java GUI
 Anggota Kelompok   : 1. Ainal Fajri Malahayati(2008107010053)
-		     2. Maghfirah ZA          (npm)
+		     2. Maghfirah ZA          (2008107010075)
 		     3. Rahmi Susanti         (npm)
 		     4. Yulia Khairunnisa     (2008107010010)
 
