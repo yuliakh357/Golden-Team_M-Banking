@@ -3,7 +3,7 @@ Judul              : Projek Lab PBO berbasis Java GUI
 Anggota Kelompok   : 1. Ainal Fajri Malahayati(2008107010053)
 		     2. Maghfirah ZA          (npm)
 		     3. Rahmi Susanti         (npm)
-		     4. Yulia Khairunnisa     (npm)
+		     4. Yulia Khairunnisa     (2008107010010)
 
 Projek yang dibuat : Mbanking sederhana 
 
